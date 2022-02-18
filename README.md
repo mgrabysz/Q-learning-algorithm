@@ -14,5 +14,5 @@ Q-learning is a type of algorithm in which a certain agent moves in given enviro
 ## Repository also contains:
 
 - **pictures** - folder contains plots generated while doing a study about the implementation
-- **WSI_lab6_sprawozdanie** - document (only in Polish) contains more detailed description of project and report about examination how quality of algorithm performance with respect to different parameters. 
+- **WSI_lab6_sprawozdanie** - document (only in Polish though) contains more detailed description of project and report about examination how quality of algorithm performance with respect to different parameters. 
 
