@@ -7,5 +7,12 @@ Q-learning is a type of algorithm in which a certain agent moves in given enviro
 ## Implementation
 
 - **environment.py** - in this module class Environment is implemented. Environment generates a maze in which agent is moving and also provides feedback about actions performed by agent
-- **main.py** - in this module function qlearn() is implemented. Function qlearn() is the principal part of the project.
+- **main.py** - in this module function qlearn() is implemented. Function qlearn() is the principal part of the project. The function saves detailed info about algorithm performance in a json file. The module also contains an example execution of the algorithm.
+- **testing.py** - module contains a scheme to perform automatic testing in respect to given parameters.
+- **plotter.py** - module is responsible for creating a plots using matplotlib library. To create a plot a json file with data has to be provided.
+
+## Repository also contains:
+
+- **pictures** - folder contains plots generated while doing a study about the implementation
+- **WSI_lab6_sprawozdanie** - document (only in Polish) contains more detailed description of project and report about examination how quality of algorithm performance with respect to different parameters. 
 
